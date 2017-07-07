@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 546933f99f37c4ae5890702ca17724cd
-timeCreated: 1499371365
+timeCreated: 1499448330
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -16,6 +16,10 @@ TextureImporter:
     21300018: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_9
     21300020: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_10
     21300022: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_11
+    21300024: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_12
+    21300026: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_13
+    21300028: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_14
+    21300030: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_15
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -86,9 +90,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 91
-        width: 25
-        height: 31
+        y: 93
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -99,9 +103,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 25
-        y: 91
-        width: 25
-        height: 31
+        y: 93
+        width: 22
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,9 +116,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 50
-        y: 91
-        width: 25
-        height: 31
+        y: 93
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,10 +128,10 @@ TextureImporter:
       name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_3
       rect:
         serializedVersion: 2
-        x: 75
-        y: 91
-        width: 25
-        height: 31
+        x: 77
+        y: 93
+        width: 22
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -138,9 +142,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 60
-        width: 25
-        height: 31
+        y: 62
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,10 +154,10 @@ TextureImporter:
       name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_5
       rect:
         serializedVersion: 2
-        x: 25
-        y: 60
-        width: 25
-        height: 31
+        x: 26
+        y: 62
+        width: 22
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,10 +167,10 @@ TextureImporter:
       name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_6
       rect:
         serializedVersion: 2
-        x: 50
-        y: 60
-        width: 25
-        height: 31
+        x: 51
+        y: 62
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +180,10 @@ TextureImporter:
       name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_7
       rect:
         serializedVersion: 2
-        x: 75
-        y: 60
-        width: 25
-        height: 31
+        x: 77
+        y: 62
+        width: 22
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,9 +194,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 29
-        width: 25
-        height: 31
+        y: 31
+        width: 21
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,9 +207,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 25
-        y: 29
-        width: 25
-        height: 31
+        y: 31
+        width: 21
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +219,10 @@ TextureImporter:
       name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_10
       rect:
         serializedVersion: 2
-        x: 50
-        y: 29
-        width: 25
-        height: 31
+        x: 52
+        y: 31
+        width: 21
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +232,62 @@ TextureImporter:
       name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_11
       rect:
         serializedVersion: 2
-        x: 75
-        y: 29
-        width: 25
-        height: 31
+        x: 78
+        y: 31
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokemon_black_and_white_2_male_hero_sprite_sheet_by_siranime-d53euut_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 21
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
